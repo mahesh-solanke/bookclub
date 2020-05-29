@@ -1,0 +1,35 @@
+Idea -> planning-> implementation-> launching
+
+Book CLub:
+- Every person picks 1 Book
+- We read that book at pace of 100 pages per week.
+- Google Sheets that has statistics each book and 
+  including rating and page length.
+- we also have a Google notes with information about our next 
+  meeting and when the next book will be picked.
+- We also have a group chat where we talk about the book.
+- on the day of book club we get to gether and talk about
+  the book and reveal our rating for it.
+
+
+
+Use cases:
+- To be able to create a group with people/join a group.
+- To give a rating for the book once you are done.
+- To give a review for the book once you are done.
+- To pick the next book a week before the book club meeting.
+- To access statistics about previous books the book club read.
+  including most likes book, others people reviews.
+- Chat feature with group.
+- on book club day we want to reveal other peoples rating,
+  as well as their reviews
+  - some way to talk interact with the group.
+- show a due date of when book club review will happen.
+  - show when the next book will be picked.
+- create a profile of the user/ be able to log in.
+
+Potential feature:
+- Sharing the app with other peoples
+
+Quetions:
+- can people be in multiple group? 
